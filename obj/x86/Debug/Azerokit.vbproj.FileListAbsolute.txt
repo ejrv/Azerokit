@@ -1,0 +1,18 @@
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\bin\Debug\Azerokit.exe
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\bin\Debug\Azerokit.pdb
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\bin\Debug\Azerokit.xml
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.Form1.resources
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.Resources.resources
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.vbproj.GenerateResource.Cache
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.exe
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.xml
+C:\Users\ezblo\AppData\Local\Temporary Projects\Azerokit\obj\x86\Debug\Azerokit.pdb
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.exe
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.xml
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.pdb
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\bin\Debug\Azerokit.exe
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\bin\Debug\Azerokit.pdb
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\bin\Debug\Azerokit.xml
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.Form1.resources
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.Resources.resources
+C:\Users\ezblo\Desktop\Azerokit\Azerokit\obj\x86\Debug\Azerokit.vbproj.GenerateResource.Cache
