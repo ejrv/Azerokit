@@ -1,5 +1,7 @@
 # Azerokit
-Azerokit - Your All in One Rooting, ADB and Fastboot Tools In Just "One" Software (GUI - Windows)​
+((((  THIS SOURCE CODE IS OUTDATED AND WILL I WILL NOT TEMPRORARLY UPLOAD THE NEW VERSION  ))))
+
+## Azerokit - Your All in One Rooting, ADB and Fastboot Tools In Just "One" Software (GUI - Windows)​
 
 [Link on XDA Forums](https://forum.xda-developers.com/t/closed-tool-windows-azerokit-cross-device-rooting-adb-and-fastboot-tool-samsung-sony-xiaomi-and.4626573/)
 
