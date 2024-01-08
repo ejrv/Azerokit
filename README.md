@@ -1,5 +1,5 @@
 # Azerokit
-((((  THIS SOURCE CODE IS OUTDATED AND WILL I WILL NOT TEMPRORARLY UPLOAD THE NEW VERSION  ))))
+((((  THIS SOURCE CODE IS OUTDATED AND I WILL NOT TEMPRORARLY UPLOAD THE NEW VERSION  ))))
 
 ## Azerokit - Your All in One Rooting, ADB and Fastboot Tools In Just "One" Software (GUI - Windows)​
 
